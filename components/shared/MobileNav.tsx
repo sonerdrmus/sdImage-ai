@@ -25,7 +25,6 @@ const MobileNav = () => {
                     </SheetTrigger>
                     <SheetContent className="sheet-content">
                         <>
-                        asdasdas
                         <Image src="/assets/images/logo-text.svg" alt="sd-ai logo" width={152} height={23} />
                         <ul className='header-nav_elements'>
                             {navLinks.map((link) => {
